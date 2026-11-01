@@ -1,0 +1,5 @@
+print("\n=== 4-5. Summing a Million ===")
+numbers = list(range(1, 200))
+print(f"Minimum: {min(numbers)}")
+print(f"Maksimum: {max(numbers)}")
+print(f"Jumlah: {sum(numbers)}")
